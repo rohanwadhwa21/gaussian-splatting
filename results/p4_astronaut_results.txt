@@ -1,0 +1,3 @@
+astronaut 128x128, 2000 steps, seed 0
+densified (N0=64, budget 1024): final N=989, PSNR=27.81 dB
+fixed count N=989: PSNR=27.36 dB
